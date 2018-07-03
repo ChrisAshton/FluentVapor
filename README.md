@@ -19,6 +19,6 @@
     </a>
 </center>
 
-Sweet [Vapor tutorial by Martin Lasek][tutorial] on how to use Leaf in Vapor3
+Sweet [Vapor tutorial by Martin Lasek][tutorial] on how to write models using Fluent in Vapor3
 
-[tutorial]: https://medium.com/@martinlasek/tutorial-how-to-use-leaf-70d796831ec5
+[tutorial]: https://medium.com/@martinlasek/tutorial-how-to-write-models-using-fluent-e9482d335a5f
